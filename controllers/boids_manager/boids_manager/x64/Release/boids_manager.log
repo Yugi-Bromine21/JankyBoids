@@ -1,0 +1,29 @@
+﻿  boids_manager.c
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(55,101): error C2143: syntax error: missing ';' before '{'
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(57,73): error C2065: 'translation_fields': undeclared identifier
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(57,92): error C2065: 'index': undeclared identifier
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(57,91): error C2109: subscript requires array or pointer type
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(57,40): error C2198: 'const double *wb_supervisor_field_get_sf_vec3f(WbFieldRef)': too few arguments for call
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(59,19): error C2065: 'index': undeclared identifier
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(62,75): error C2065: 'translation_fields': undeclared identifier
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(62,93): error C2109: subscript requires array or pointer type
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(62,42): error C2198: 'const double *wb_supervisor_field_get_sf_vec3f(WbFieldRef)': too few arguments for call
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(71,100): error C2143: syntax error: missing ';' before '{'
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(73,73): error C2065: 'translation_fields': undeclared identifier
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(73,92): error C2065: 'index': undeclared identifier
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(73,91): error C2109: subscript requires array or pointer type
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(73,40): error C2198: 'const double *wb_supervisor_field_get_sf_vec3f(WbFieldRef)': too few arguments for call
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(75,19): error C2065: 'index': undeclared identifier
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(78,75): error C2065: 'translation_fields': undeclared identifier
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(78,93): error C2109: subscript requires array or pointer type
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(78,42): error C2198: 'const double *wb_supervisor_field_get_sf_vec3f(WbFieldRef)': too few arguments for call
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(87,99): error C2143: syntax error: missing ';' before '{'
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(89,73): error C2065: 'translation_fields': undeclared identifier
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(89,92): error C2065: 'index': undeclared identifier
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(89,91): error C2109: subscript requires array or pointer type
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(89,40): error C2198: 'const double *wb_supervisor_field_get_sf_vec3f(WbFieldRef)': too few arguments for call
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(91,19): error C2065: 'index': undeclared identifier
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(94,75): error C2065: 'translation_fields': undeclared identifier
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(94,93): error C2109: subscript requires array or pointer type
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(94,42): error C2198: 'const double *wb_supervisor_field_get_sf_vec3f(WbFieldRef)': too few arguments for call
+C:\Users\bromi\Desktop\controllers\boids_manager\boids_manager.c(41,4): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
